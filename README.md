@@ -7,7 +7,7 @@ Install this MCP server by adding the following JSON code to your JSON config fi
       "command": "uvx",
       "args": [
         "from",
-        "git+https://github.com/gaurav743/mcp-chess-server.git"
+        "git+https://github.com/gaurav743/mcp-chess-server.git",
         "chess"
       ]
     }
